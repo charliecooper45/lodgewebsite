@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Charlie Cooper -- Developer
+    Ana Cooper - Designer
+
+# THANKS
+
+    HTML5 Boilerplate Team (https://html5boilerplate.com/)
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr, Bootstrap
